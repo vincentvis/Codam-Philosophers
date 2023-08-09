@@ -14,3 +14,11 @@ The philosophers have a set rhythm: sleep -> think -> eat -> sleep -> think -> e
 -   [x] Write tests in a Codam style acceptable way
 -   [x] Understand how to avoid race conditions
 -   [x] Make the simulation work with large numbers of philosophers/threads (200+)
+
+## Codam project FAQ
+
+All Codam projects are written within the 42/codam styleguide called The Norm. The intention is that it should force you to write clean code and make everybody write in the same style so evaluations and code reviews are easier.
+This gives guidelines on maximum lines per function (25), maximum characters per line (80), maximum functions per file (5), maximum number of parameters per function (4) etc.
+Although these guidelines are highly debated and do not always serve their intented function of clean code, they are non negotionable in the projects, 1 small mistake and you have to redo the project.
+
+Thus the "cleanness" of the code in these projects are within the scope of The Norm. More information about the norm can be found in [this repository](https://github.com/42School/norminette/)
